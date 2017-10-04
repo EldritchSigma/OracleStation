@@ -14,26 +14,34 @@
         "@pick(semicolon)A PIRATE APPEAR",
         "FUS RO DAH",
         "fucking 4rries!",
+		"HAALLP MUSColur 3ldritch m3n in sciii maints with 4bs... not... xDDDD",
+		"HATCHING IN SCI MAINTS",
+		"Sh4d0ling got no abs!",
         "stat me",
         ">my face",
         "roll it easy!",
+		"Me one shootz betta dan you one.",
+		"Now git out there and krush dem all!",
         "waaaaaagh!!!",
         "red wonz go fasta",
         "FOR TEH EMPRAH",
         "lol2cat",
+		"V0xxy is best y4y4.",
         "dem dwarfs man, dem dwarfs",
         "SPESS MAHREENS",
         "hwee did eet fhor khayosss",
         "lifelike texture ;_;",
+		"BALD AND FEWLISH!",
         "luv can bloooom",
         "PACKETS!!!",
         "port ba@pick(y_replacements) med!!!!",
         "REVIRT GON CHEM!!!!!!!!",
         "youed call her a toeugh bithc",
         "closd for merbegging",
+		"@pick(george) @pick(mellens) is dedC4LL TEH SHUTTLE PLZ :(",
         "@pick(semicolon)pray can u @pick(create_verbs) @pick(create_nouns)???",
         "GEY AWAY FROM ME U GREIFING PRICK!!!!",
-        "ur a fuckeing autist!",
+        "ur a fuckeing f4rry",
         "@pick(semicolon)HELP SHITECIRTY MURDERIN  MEE!!!",
         "hwat dose tha @pick(random_gibberish) mean?????",
         "@pick(semicolon)CAL; TEH SHUTTLE!!!!!",
@@ -44,27 +52,34 @@
         "geT THE FUCK OUTTTT",
         "H U G B O X",
         "@pick(semicolon)CRASHING THIS STTAYTION WITH NIO SURVIVROS",
-        "@pick(servers) is down!! @pick(bug)",
         "PSHOOOM",
         "REMOVE SINGULARITY",
         "INSTLL TEG",
+		"ADT D4MN LAGS!"
         "TURBIN IS BEST ENGIENE",
+		"No EGIENE IS BESTEST!",
         "SOLIRS CAN POWER THE HOLE STATION ANEWAY @pick(bug)",
         "parasteng was best",
         "@pick(semicolon)Tajaran has warrrres, if you have coin",
-        "@pick(semicolon)I'VE GOT BALLS OF STEEL",
+        "@pick(semicolon)I'VE GOT BALLS OF @pick(material)-STEEL",
         "NO I'M ONNA KILL YOU MOTHERFUCKER OLD STYLE",
         "i will snatch erry motherfucker birthday",
         "@pick(semicolon)the ai and borgs are mettacomming I think",
         "u just did the world a little bit more sad place for someone",
         "WHERES THE SLIP REWRITE WHERE THR FUCK ID IT?",
+		"KEMISTRY IS OP, PLZ NERF I DED!",
+		"@pick(material) is OP, plz nerf n0aW!",
+		"HA111lp QUAD ESWORD!",
+		"F1dg3t Sp1nners are kewl!",
+		"MOerge Fijet Spiner Esord when?!",
+		"LIZZZZZZARRRRRRRRRRRDSSSS br3e'##fding in libr4ry eeeehhhaarrrrpee!
         "@pick(semicolon)N-NYAAAAAA~",
         "@pick(bug)",
         "@pick(semicolon)wtf??????????? @pick(bug)",
         "@pick(semicolon)i ran into the supermattre ten i dsappeard @pick(bug)",
         "DON'T EVER TUCH ME",
     ],
-
+	
     "mutations": [
         "telikesis",
         "halk",
@@ -73,53 +88,52 @@
         "eksrey",
         "glowey skin",
         "fungal tb",
-        "stun gloves"
+        "stun gloves",
+		"ascendancy",
+		"lizzzardssssssssssss"
     ],
-
+	
     "george": [
         "joerge",
         "george",
         "gorge",
         "gdoruge"
     ],
-
+	
     "mellens": [
         "mellens",
         "melons",
-        "mwrlins"
+        "mwrlins",
+		"mwerlins"
     ],
-
+	
     "faggot_traitor": [
         "",
-        "that faggot traitor"
+        "that traitor",
+		"griffing tr4itor",
+		"Cahngling W1znerd Bl0b 0p",
+		"Vamps Traitor griffer voxx Tretor"
     ],
-
+	
     "random_gibberish": [
         "g",
         "squid",
         "r",
         "carbon dioxide"
     ],
-
+	
     "y_replacements": [
         "y",
         "i",
         "e"
     ],
-
-    "servers": [
-        "bager",
-        "sybl",
-        "mrs sybil",
-        "mr basil"
-    ],
-
+	
     "create_verbs": [
         "spawn",
         "MAke me",
         "creat"
     ],
-
+	
     "create_nouns": [
         "zenomorfs",
         "ayleins",
@@ -139,6 +153,25 @@
         "",
         ";",
         ".h"
-    ]
-
+    ],
+	
+	"material": [
+		"",
+		"GOLD",
+		"GIBONITE",
+		"Pl4stic",
+		"AIR",
+		"EEEELEEEEEEERUM",
+		"SupaMatta",
+		"Steel",
+		"Duk3",
+		"Tr4itor",
+		"ChangLings",
+		"Voxxy",
+		"Titanium",
+		"Sand",
+		"Glass",
+		"COMDOM",
+		"WIRE"
+	]
 }
