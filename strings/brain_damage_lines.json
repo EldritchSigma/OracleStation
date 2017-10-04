@@ -33,7 +33,6 @@
         "closd for merbegging",
         "@pick(semicolon)pray can u @pick(create_verbs) @pick(create_nouns)???",
         "GEY AWAY FROM ME U GREIFING PRICK!!!!",
-        "ur a fuckeing autist!",
         "@pick(semicolon)HELP SHITECIRTY MURDERIN  MEE!!!",
         "hwat dose tha @pick(random_gibberish) mean?????",
         "@pick(semicolon)CAL; TEH SHUTTLE!!!!!",
@@ -44,7 +43,6 @@
         "geT THE FUCK OUTTTT",
         "H U G B O X",
         "@pick(semicolon)CRASHING THIS STTAYTION WITH NIO SURVIVROS",
-        "@pick(servers) is down!! @pick(bug)",
         "PSHOOOM",
         "REMOVE SINGULARITY",
         "INSTLL TEG",
@@ -63,6 +61,24 @@
         "@pick(semicolon)wtf??????????? @pick(bug)",
         "@pick(semicolon)i ran into the supermattre ten i dsappeard @pick(bug)",
         "DON'T EVER TUCH ME",
+		"HA111lp QUAD ESWORD!",
+		"F1dg3t Sp1nners are kewl!",
+		"MOerge Fijet Spiner Esord when?!",
+		"LIZZZZZZARRRRRRRRRRRDSSSS br3e'##fding in libr4ry eeeehhhaarrrrpee!,
+		"KEMISTRY IS OP, PLZ NERF I DED!",
+		"@pick(material) is OP, plz nerf n0aW!",
+		"@pick(semicolon)I'VE GOT BALLS OF @pick(material)-STEEL",
+		"No EGIENE IS BESTEST!",
+		"ADT D4MN LAGS!",
+		"ur a fuckeing f4rry",
+		"@pick(george) @pick(mellens) is dedC4LL TEH SHUTTLE PLZ :(",
+		"ITS F4CK1NG 3XTEND3D! C4LL SHUTTLE!",
+		"V0xxy is best y4y4.",
+		"Me one shootz betta dan you one.",
+		"Now git out there and krush dem all!",
+		"HAALLP MUSColur 3ldritch m3n in sciii maints with 4bs... not... xDDDD",
+		"HATCHING IN SCI MAINTS",
+		"Sh4d0ling got no abs!",
     ],
 
     "mutations": [
@@ -73,7 +89,9 @@
         "eksrey",
         "glowey skin",
         "fungal tb",
-        "stun gloves"
+        "stun gloves",
+		"ascendancy",
+		"lizzzardssssssssssss"
     ],
 
     "george": [
@@ -86,12 +104,16 @@
     "mellens": [
         "mellens",
         "melons",
-        "mwrlins"
+        "mwrlins",
+		"mwerlins"
     ],
 
     "faggot_traitor": [
         "",
-        "that faggot traitor"
+        "that traitor",
+		"griffing tr4itor",
+		"Cahngling W1znerd Bl0b 0p",
+		"Vamps Traitor griffer voxx Tretor"
     ],
 
     "random_gibberish": [
@@ -106,14 +128,30 @@
         "i",
         "e"
     ],
-
-    "servers": [
-        "bager",
-        "sybl",
-        "mrs sybil",
-        "mr basil"
-    ],
-
+	
+	"material": [
+		"",
+		"GOLD",
+		"GIBONITE",
+		"Pl4stic",
+		"AIR",
+		"EEEELEEEEEEERUM",
+		"SupaMatta",
+		"Steel",
+		"Duk3",
+		"Tr4itor",
+		"ChangLings",
+		"Voxxy",
+		"Titanium",
+		"Sand",
+		"Glass",
+		"COMDOM",
+		"WIRE",
+		"SHAD0Wl1ng",
+		"D3Vil",
+		"Bl4wb"
+	],
+	
     "create_verbs": [
         "spawn",
         "MAke me",
@@ -125,7 +163,8 @@
         "ayleins",
         "treaitors",
         "sheadow lings",
-        "abdoocters"
+        "abdoocters",
+		"V0CCS RAYDORS"
     ],
 	
     "bug": [
